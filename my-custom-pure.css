@@ -1,0 +1,6 @@
+.decorated p {
+  padding: 1em 1em 1em 1em;
+  margin: .2em .2em .2em .2em;
+  border: dotted 1px;
+  background-color: pink;
+}
